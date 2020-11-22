@@ -2,7 +2,7 @@
 
 ## MySQL_server_Installation
 Before going to work with mysql server, make two group based on Mac user and Windows user. 
-## Server Installation For Windows 
+## MySQL Installation For Windows 
 ### Setp 1: Download XAMPP
 1. Click <a href="https://www.apachefriends.org/download.html">here </a> to download and install XAMPP from Apache webside. 
 2. Double click on the downloaded file and follow all the instraction to install.
