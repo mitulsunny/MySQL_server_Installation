@@ -10,9 +10,9 @@ Before going to work with mysql server, make two group based on Mac user and Win
 
 ### Setp 2: Setup Environment variable
 
-3. Go to your This PC C Driver and find find XAMPP directory
+3. Go to your This PC --> C Driver and find XAMPP directory
 4. Find mysql directory from the XAMPP directory and copy the path.
-5. Right click on This PC --> Properties --> Advanced System Setting --> Environment --> New (under System variables) --> In pop up input box Variable Name MYSQL and in value input box enter the path that you copy. exampel: C:\xampp\mysql 
+5. Right click on This PC --> Properties --> Advanced System Setting --> Environment --> New (under System variables) --> In pop up input box Variable Name = MYSQL and in value input box enter the path that you copy. exampel: C:\xampp\mysql 
 6. Now double click on path under User variable --> click on new from top right corner --> enter %MYSQL%\bin  --> press ok --> ok and close it.
 ### Setp 3: Run MySql server
 7. open XAMPP and next to mysql, click on start--> You will see the background color of mysql will change to blue
